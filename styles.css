@@ -1,0 +1,17 @@
+.content{
+    text-align: column;
+    font-family: 'IM Fell DW Pica';
+    
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    text-align: column;
+
+}
+
+body{
+    background-color: rgb(245, 238, 240);
+    color: black;
+}

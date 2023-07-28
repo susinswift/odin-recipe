@@ -1,2 +1,2 @@
 # odin-recipe
-This is my first Odin's project!
+<a href="susinswift.github.io/odin-recipe"> This is my first Odin's project!</a>
